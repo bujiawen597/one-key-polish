@@ -1,0 +1,15 @@
+# build output
+polish-key/out/
+*.exe
+*.pdb
+
+# local config / logs
+config.json
+*.log
+
+# node
+node_modules/
+
+# OS
+Thumbs.db
+desktop.ini
