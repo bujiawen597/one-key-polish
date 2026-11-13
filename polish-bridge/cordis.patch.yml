@@ -1,0 +1,4 @@
+# dsh-polish-bridge：单包单插件，装进 bundles 即插即用。
+- insert:
+    - id: dsh-polish-bridge
+      name: dsh-polish-bridge
